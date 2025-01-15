@@ -1,6 +1,10 @@
 {
   "servers": [
     {
+      "name": "Sean",
+      'address": "https://anisette-v3-server-0qmq.onrender.com"
+    },
+    {
       "name": "SideStore",
       "address": "https://ani.sidestore.io"
     },
